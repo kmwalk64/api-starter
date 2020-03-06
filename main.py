@@ -39,7 +39,7 @@ Ditto = {"ditto/"
   "order_197/"
   "height_3/"
   "weight_40/"
-  "name_normal/"
+  "type_normal/"
   "https://pokeapi.co/api/v2/type/1/"}
 
 res = requests.get(URL) # get the data
